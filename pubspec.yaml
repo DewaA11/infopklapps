@@ -1,0 +1,73 @@
+name: infopkl
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  firebase_core: 2.13.1
+  cloud_firestore: 4.5.0
+  firebase_auth: 4.4.0
+  firebase_storage: 11.1.0
+  flutter_svg: 2.0.6
+  image_picker: 0.8.7+4
+  convex_bottom_bar: 3.2.0
+  flutter_native_splash: 2.2.19
+  flutter_reorderable_grid_view: 4.0.0
+  carousel_slider: 4.2.1
+  file_picker: 5.3.0
+  google_fonts: 4.0.4
+  dropdown_search: 5.0.6
+  flutter_rating_bar: 4.0.1
+  photo_view: ^0.14.0
+  video_player: 2.6.1
+  flutter_isolate: 2.0.4
+  fluttertoast: 8.2.2
+  introduction_screen: 3.1.8
+  get_storage: 2.1.1
+  firebase_messaging: 14.6.2
+  http: ^0.13.0
+  flutter_spinkit: 5.2.0
+  url_launcher: 6.1.11
+  flutter_vector_icons: 2.0.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/images/Logo1.png
+    - assets/images/lupapass.svg
+    - assets/images/Mobilelogin.svg
+    - assets/images/Forgotpass.svg
+    - assets/images/Gantipassgif.gif
+    - assets/images/animasiuser.gif
+    - assets/images/logosplash.png
+    - assets/images/Splashhh.png
+    - assets/images/Untuklogin.svg
+    - assets/images/untuklupapass.svg
+    - assets/images/Untuk Reset.svg
+    - assets/images/Untukprofil.svg
+    - assets/images/untukp.svg
+    - assets/images/splash.png
+    - assets/images/kuesioner.svg
+    - assets/images/slide1.svg
+    - assets/images/slide2.svg
+    - assets/images/slide3.svg
+    - assets/images/slide4.svg
+    - assets/images/slide5.svg
+  uses-material-design: true
+
+flutter_native_splash: 
+  color: '#000080'
+  image: assets/images/Splashhh.png
+  android: true
+  ios: true
+

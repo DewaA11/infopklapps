@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200457927586",
+    "firebase_url": "https://pklapp-tugasahkir-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pklapp-tugasahkir",
+    "storage_bucket": "pklapp-tugasahkir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200457927586:android:ad0fbc47e2682bcdcb50fb",
+        "android_client_info": {
+          "package_name": "com.taproject.infopkl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200457927586-8qvi7ae9034mv9oit39lje7fb09n8tkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EqP8dE1lFwr2TNtiIW2yo7Lb9fS9siU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200457927586-8qvi7ae9034mv9oit39lje7fb09n8tkn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200457927586-9cpq2khhkl3mus9vppee0gpnij6uauje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tugasAhkir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
